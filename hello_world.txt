@@ -1,0 +1,6 @@
+git statuscommand show the status of your repo.
+
+make some change
+git status => which file have changes 
+git add <file_name> => add files/changes to staging(the files/changes which you want to commitgit add <file_name> => add files/changes to staging(the files/changes which you want to commit
+)git commit -m "added git workflow info"
